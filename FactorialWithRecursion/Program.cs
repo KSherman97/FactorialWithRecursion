@@ -12,7 +12,7 @@ namespace FactorialWithRecursion
         {
             Factorial solveFactorial = new Factorial();
 
-            Console.WriteLine(solveFactorial.RecursiveFactorial(5));
+            Console.WriteLine("Solve 5!: " + solveFactorial.RecursiveFactorial(5));
         }
     }
 }
