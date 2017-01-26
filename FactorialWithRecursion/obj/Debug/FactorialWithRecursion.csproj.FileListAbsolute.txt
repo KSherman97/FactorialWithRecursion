@@ -1,2 +1,7 @@
 o:\visual studio 2015\Projects\FactorialWithRecursion\FactorialWithRecursion\bin\Debug\FactorialWithRecursion.exe.config
 O:\CIS237\FactorialWithRecursion\FactorialWithRecursion\bin\Debug\FactorialWithRecursion.exe.config
+O:\CIS237\FactorialWithRecursion\FactorialWithRecursion\bin\Debug\FactorialWithRecursion.exe
+O:\CIS237\FactorialWithRecursion\FactorialWithRecursion\bin\Debug\FactorialWithRecursion.pdb
+O:\CIS237\FactorialWithRecursion\FactorialWithRecursion\obj\Debug\FactorialWithRecursion.csprojResolveAssemblyReference.cache
+O:\CIS237\FactorialWithRecursion\FactorialWithRecursion\obj\Debug\FactorialWithRecursion.exe
+O:\CIS237\FactorialWithRecursion\FactorialWithRecursion\obj\Debug\FactorialWithRecursion.pdb

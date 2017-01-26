@@ -10,6 +10,9 @@ namespace FactorialWithRecursion
     {
         static void Main(string[] args)
         {
+            Factorial solveFactorial = new Factorial();
+
+            Console.WriteLine(solveFactorial.RecursiveFactorial(5));
         }
     }
 }
